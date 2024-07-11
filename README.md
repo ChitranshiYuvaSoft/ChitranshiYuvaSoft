@@ -9,13 +9,13 @@
 <img src="https://komarev.com/ghpvc/?username=chitranshi17&label=Profile%20views&color=0e75b6&style=flat" alt="chitranshi17" />
  </p>
 
-- 🔭 I’m currently working on **MERN**
+- 🔭 I am currently working as **Junior Software Developer **
 
 - 👨‍💻 All of my projects are available at [https://chitranshigourana.vercel.app/](https://chitranshigourana.vercel.app/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, React.js, Redux, Material UI, Tailwind CSS, Node.js, Express.js, MongoDB**
 
-- 📫 How to reach me **chitranshigourana17@gmail.com**
+- 📫 How to reach me **chitranshigourana17@gmail.com** & **chitranshiyuvasoft448@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/15DMdcBQYEYr1l5_E3MvkFPPKFwXaefeI/view?usp=sharing](https://drive.google.com/file/d/15DMdcBQYEYr1l5_E3MvkFPPKFwXaefeI/view?usp=sharing)
 
